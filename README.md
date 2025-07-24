@@ -81,7 +81,7 @@ Here’s the test strategy document I wrote, which outlines:
 - Test coverage
 - Setup and assumptions
 
-📄 [Test_Plan_Ahmed_Agamy.pdf](./Test_Plan_Ahmed_Agamy.pdf)
+[Qa Test Plan.pdf](https://github.com/user-attachments/files/21403696/Qa.Test.Plan.pdf)
 
 
 
